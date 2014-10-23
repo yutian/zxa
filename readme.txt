@@ -1,1 +1,3 @@
-hello git !!! study git,go 
+hello git !!! study git,go
+Git tracks changes.
+Git tracks changes of files. 
